@@ -11,7 +11,7 @@
 
 • توكن البوت
 
-[![التنصيب عبر هيروكو](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JMTHON-AR/TikTok)
+[![التنصيب عبر هيروكوط](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=MTHON-AR/TikTok)
 
 #### المميزات:
 
